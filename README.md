@@ -4,15 +4,17 @@ Enter a number, and get the corresponding avatar element. Based on the ***Avatar
 
 ## Installation
 ```bash
-$ npm install -g avatar_element
+$ npm install avatar_element
 ```
 
 ## Usage
 
 ```js
+const getAvatarElement = require("avatar_element")
+
 // Aang was 182, and was an airbender
-getElement(182) // returns "air"
+getAvatarElement(182) // returns "air"
 
 // Korra was 183 and a water bender
-getElement(183) // returns "water"
+getAvatarElement(183) // returns "water"
 ```
