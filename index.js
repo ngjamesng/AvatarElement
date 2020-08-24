@@ -5,4 +5,4 @@ function getElement(num) {
   return element;
 }
 
-module.exports.getElement = getElement;
+export default getElement;
