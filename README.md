@@ -1,6 +1,6 @@
 # avatar_element
 
-Enter a number, and get the corresponding avatar element. 
+Enter a number, and get the corresponding avatar element. Based on the ***Avatar: The Last Airbender*** and ***Avatar: The Legend of Korra*** tv series. 
 
 ## Installation
 ```bash
