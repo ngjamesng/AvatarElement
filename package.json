@@ -1,0 +1,24 @@
+{
+  "name": "avatar_element",
+  "version": "1.0.0",
+  "description": "Get the Avatar's element based on their number in the lineage. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngjamesng/AvatarElement.git"
+  },
+  "keywords": [
+    "tv",
+    "show",
+    "fun"
+  ],
+  "author": "James Ng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngjamesng/AvatarElement/issues"
+  },
+  "homepage": "https://github.com/ngjamesng/AvatarElement#readme"
+}
